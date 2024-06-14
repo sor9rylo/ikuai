@@ -1,0 +1,14 @@
+# iKuai 配置
+server_address:   # ikuai 地址
+username: admin     # 用户名
+password:      # 密码
+
+# 域名列表
+domain_list_url:      # 域名列表地址
+domain_comment: GFW     # 域名列表备注
+domain_interface: wan      # 线路名称
+domain_src_addr: ''    # 源地址,分割可留空
+
+# 保存 RowId 列表用于删除列表，注释/删除取消
+domain_row_ids:
+
